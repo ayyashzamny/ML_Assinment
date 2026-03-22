@@ -1,0 +1,23 @@
+=========================================
+  ML Assignment — Group Members
+=========================================
+
+Member 1:
+  Student ID : [YOUR_ID]
+  Full Name  : [YOUR_NAME]
+  Email      : [YOUR_EMAIL]
+  Contribution: Random Forest Classifier (Notebook 1)
+
+Member 2:
+  Student ID : [YOUR_ID]
+  Full Name  : [YOUR_NAME]
+  Email      : [YOUR_EMAIL]
+  Contribution: Support Vector Machine / SVM (Notebook 2)
+
+Member 3:
+  Student ID : [YOUR_ID]
+  Full Name  : [YOUR_NAME]
+  Email      : [YOUR_EMAIL]
+  Contribution: K-Nearest Neighbors / KNN (Notebook 3)
+
+=========================================
