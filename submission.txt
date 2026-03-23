@@ -1,16 +1,14 @@
-=========================================
+
   ML Assignment — Submission Details
-=========================================
+
 
 DATASET LINK:
   https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 GITHUB REPOSITORY LINK:
-  https://github.com/[YOUR_USERNAME]/ml-nba-prediction
-  (Replace with your actual public GitHub repo link)
+  https://github.com/ayyashzamny/ML_Assinment.git
 
 YOUTUBE VIDEO LINK:
   https://youtu.be/[YOUR_VIDEO_ID]
-  (Replace with your actual YouTube video link — max 20 mins)
 
 
