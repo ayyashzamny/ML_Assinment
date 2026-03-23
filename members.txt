@@ -3,9 +3,9 @@
 =========================================
 
 Member 1:
-  Student ID : [YOUR_ID]
-  Full Name  : [YOUR_NAME]
-  Email      : [YOUR_EMAIL]
+  Student ID : IT22355850
+  Full Name  : M.Z.M.Ayyash
+  Email      : it22355850@my.sliit.lk
   Contribution: Random Forest Classifier (Notebook 1)
 
 Member 2:
