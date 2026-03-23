@@ -1,30 +1,11 @@
-=========================================
-  ML Assignment — Submission Details
-=========================================
+ML Assignment — Submission Details
+
 
 DATASET LINK:
   https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 GITHUB REPOSITORY LINK:
-  https://github.com/[YOUR_USERNAME]/ml-nba-prediction
-  (Replace with your actual public GitHub repo link)
+  https://github.com/ayyashzamny/ML_Assinment.git
 
 YOUTUBE VIDEO LINK:
   https://youtu.be/[YOUR_VIDEO_ID]
-  (Replace with your actual YouTube video link — max 20 mins)
-
-=========================================
-  VIDEO PRESENTATION STRUCTURE (Guide)
-=========================================
-
-  00:00 - 01:00  Introduction & Problem Statement (Member 1)
-  01:00 - 05:00  Dataset + Preprocessing + Random Forest (Member 1)
-  05:00 - 09:00  SVM — Algorithm, Code, Results (Member 2)
-  09:00 - 13:00  KNN — Algorithm, Code, Results (Member 3)
-  13:00 - 15:00  Model Comparison & Discussion (Member 2 or 3)
-  15:00 - 17:00  Limitations & Future Work (any member)
-  17:00 - 18:00  Conclusion (Member 1)
-
-  Note: Each member should speak for a maximum of 4 minutes.
-
-=========================================

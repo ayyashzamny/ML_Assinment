@@ -1,23 +1,20 @@
-=========================================
-  ML Assignment — Group Members
-=========================================
+ML Assignment — Group Members
+
 
 Member 1:
-  Student ID : [YOUR_ID]
-  Full Name  : [YOUR_NAME]
-  Email      : [YOUR_EMAIL]
+  Student ID : IT22355850
+  Full Name  : M.Z.M.Ayyash
+  Email      : it22355850@my.sliit.lk
   Contribution: Random Forest Classifier (Notebook 1)
 
 Member 2:
-  Student ID : [YOUR_ID]
-  Full Name  : [YOUR_NAME]
-  Email      : [YOUR_EMAIL]
+  Student ID : IT22331472
+  Full Name  : S.M.A.C.M Rashad
+  Email      : it22331472@my.sliit.lk
   Contribution: Support Vector Machine / SVM (Notebook 2)
 
 Member 3:
-  Student ID : [YOUR_ID]
-  Full Name  : [YOUR_NAME]
-  Email      : [YOUR_EMAIL]
+  Student ID : IT22355478
+  Full Name  : M.A.M Mufthi
+  Email      : it22355478@my.sliit.lk
   Contribution: K-Nearest Neighbors / KNN (Notebook 3)
-
-=========================================
